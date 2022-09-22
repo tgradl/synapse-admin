@@ -4,7 +4,7 @@
   "description": "Admin GUI for the Matrix.org server Synapse",
   "author": "Awesome Technologies Innovationslabor GmbH",
   "license": "Apache-2.0",
-  "homepage": ".",
+  "homepage": "https://matrix.tgradl.de/admin",
   "repository": {
     "type": "git",
     "url": "https://github.com/Awesome-Technologies/synapse-admin"
